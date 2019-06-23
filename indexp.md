@@ -4,7 +4,7 @@ layout: default
 
 # [Plataforma de multiprojetos compartilhados](./index.html)
 
-> ### Desenvolva seus projetos de forma descentralizada alinhando interesses e economizando recursos.
+> ### Desenvolva seus projetos de forma descentralizada alinhando interesses e economizando recursos para todos.
 >
 > ### Compartilhamento de projetos interdisciplinares independentes.
 >
