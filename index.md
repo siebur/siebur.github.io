@@ -4,7 +4,7 @@ layout: default
 
 # [A shared multiproject platform](./indexp.html)
 
-> ### Develop your projects in a decentralized way by aligning interests and saving resources.
+> ### Develop your projects in a decentralized way by aligning interests and saving resources for all.
 >
 > ### Sharing of independent interdisciplinary projects
 
